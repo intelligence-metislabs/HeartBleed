@@ -63,7 +63,7 @@ pip install heartbleed-osint
 
 ### Installation from Source
 ```bash
-git clone https://github.com/Alpha07-Intel/HeartBleed.git
+git clone https://github.com/intelligence-metislabs/HeartBleed.git
 cd HeartBleed
 pip install .
 ```
